@@ -9,7 +9,7 @@ sobre CIFAR-10 y comparando sus resultados.
 
 ## Demo en vivo
 
-👉 [Probar VisionShop](#) ← próximamente en Hugging Face Spaces
+👉 [Probar VisionShop] https://huggingface.co/spaces/dart01/visionshop
 
 ---
 
@@ -107,4 +107,4 @@ modelo y por qué es lo que separa un proyecto de juguete de uno de producción.
 ## Autor
 
 **Diego Riaño**
-[LinkedIn](#) · [GitHub](https://github.com/dart01) · [Demo en vivo](#)
+https://www.linkedin.com/in/diegoandres001/ · [GitHub](https://github.com/dart01) · (https://huggingface.co/spaces/dart01/visionshop)
